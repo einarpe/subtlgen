@@ -1,0 +1,270 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sql",
+				"sqlite3"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/s77.mydevil.net/public_html/index.html",
+		"/Users/kuba/Downloads/122172378_Consultation_2486317_202310090822/Consultation_2486317_202310090822.xml",
+		"/Volumes/GAJMIN32/Garmin/GPX/chrzanow-pieskowa-skala.gpx",
+		"/Users/kuba/Downloads/wolnosc-jest-w-naturze.gpx",
+		"/Users/kuba/Library/CloudStorage/OneDrive-Osobisty/Programowanie/osx/spotifaj/szortkat/get_songs_for_container.sh",
+		"/Users/kuba/Library/CloudStorage/OneDrive-Osobisty/Programowanie/osx/spotifaj/szortkat/follow_up.sh",
+		"/Users/kuba/Library/CloudStorage/OneDrive-Osobisty/Programowanie/osx/spotifaj/normalize.py",
+		"/Users/kuba/Library/CloudStorage/OneDrive-Osobisty/Programowanie/osx/spotifaj/szortkat/lets_play.sh",
+		"/Users/kuba/Library/CloudStorage/OneDrive-Osobisty/Programowanie/osx/mapath/mapath.html",
+		"/Users/kuba/Library/CloudStorage/OneDrive-Osobisty/Programowanie/osx/mapath/server.js",
+		"/Users/kuba/Library/CloudStorage/OneDrive-Osobisty/Programowanie/osx/mapath/Dockerfile",
+		"/Users/kuba/Library/CloudStorage/OneDrive-Osobisty/Programowanie/osx/mapath_proxy.js",
+		"/Users/kuba/Library/CloudStorage/OneDrive-Osobisty/Programowanie/osx/mapath.html",
+		"/Users/kuba/Library/CloudStorage/OneDrive-Osobisty/Programowanie/osx/spotikreader/spohis/columns.txt",
+		"/Users/kuba/Downloads/Spotify Extended Streaming History/Streaming_History_Audio_2018_2.json",
+		"/Users/kuba/Library/CloudStorage/OneDrive-Osobisty/Varias/Spotify Data/Spotify Extended Streaming History/Streaming_History_Video_2021-2024.json",
+		"/Users/kuba/Downloads/Spotify Account Data/SearchQueries.json",
+		"/Users/kuba/Downloads/Spotify Account Data/StreamingHistory_music_0.json",
+		"/Users/kuba/Downloads/najlepsiejsze.csv",
+		"/Users/kuba/Downloads/plik/eureka_service/Dockerfile",
+		"/Users/kuba/Downloads/plik/eureka_service/src/main/resources/application.properties",
+		"/Users/kuba/Downloads/plik/.env",
+		"/Users/kuba/Downloads/plik/docker-compose.yaml",
+		"/Users/kuba/nordpass_2023-10-18 21_33_18.csv",
+		"/Users/kuba/Dokumenty/programowanie/dockerowanie/docker-compose-kafka-min-w-ksqldb.yml",
+		"/Users/kuba/Dokumenty/programowanie/sejm/top_level_addresses.txt",
+		"/Users/kuba/Dokumenty/zlot_podroznikow_onedrive_linki.txt",
+		"/Users/kuba/Dokumenty/programowanie/spotipy_secretz.sh",
+		"/Users/kuba/Dokumenty/programowanie/history_20230409_112904.csv",
+		"/Users/kuba/Downloads/stock-exchanges.parquet",
+		"/Users/kuba/Dokumenty/tyniec.txt",
+		"/Users/kuba/Documents/musk.html",
+		"/Users/kuba/Documents/twitter_keyz.txt",
+		"/Users/kuba/Downloads/lp.csv",
+		"/Users/kuba/Dokumenty/programowanie/create_calendar.py",
+		"/Users/kuba/Dokumenty/programowanie/ala_praca_12_22.csv",
+		"/Users/kuba/Documents/discord_links.txt",
+		"/Users/kuba/konwersja_wideo.sh",
+		"/Users/kuba/Documents/programowanie/stresik.py",
+		"/Users/kuba/Downloads/UCLNEG1G.csv",
+		"/Users/kuba/Downloads/hells.kitchen.s11.e01.twenty.chefs.compete.(2013).eng.1cd.(5063249)/Hells.Kitchen.US.S11E01.PDTV.x264-LOL-eng.srt",
+		"/private/var/folders/gq/p279pqjj027cz4g7gxckykr80000gn/T/fz3temp-2/kp-custom.css",
+		"/private/var/folders/gq/p279pqjj027cz4g7gxckykr80000gn/T/fz3temp-2/dynamic-css.php",
+		"/Users/kuba/Dokumenty/programowanie/demko1/src/main/java/pl/kpp/demko1/Application.java",
+		"/Users/kuba/Dokumenty/programowanie/demko1/Dockerfile",
+		"/Users/kuba/Dokumenty/programowanie/demko1/src/main/resources/application.properties",
+		"/Users/kuba/Downloads/ru35wzd2.csv",
+		"/Users/kuba/Documents/books_to_be_on_kindle.txt",
+		"/Volumes/PALMTOP/lulice.sql",
+		"/Volumes/PALMTOP/omega/adm/admin.php",
+		"/Volumes/PALMTOP/omega/adm/remove.php",
+		"/Volumes/PALMTOP/omega/adm/login.php",
+		"/Volumes/PALMTOP/omega/adm/main.php",
+		"/Volumes/PALMTOP/omega/engine/router.php",
+		"/Volumes/PALMTOP/omega/engine/common.php",
+		"/Volumes/PALMTOP/omega/engine/db.php",
+		"/Volumes/PALMTOP/omega/lib/scripting.js",
+		"/Users/kuba/Downloads/kurswspolbieznosci-master/src/main/java/pl/kurswspolbieznosci/tydzien6/MapsLesson.java",
+		"/Users/kuba/Downloads/kurswspolbieznosci-master/src/main/java/pl/kurswspolbieznosci/tydzien3/VolatileLesson.java",
+		"/Users/kuba/Downloads/kurswspolbieznosci-master/src/main/java/pl/kurswspolbieznosci/tydzien5/CallableLesson2.java",
+		"/Users/kuba/Downloads/kurswspolbieznosci-master/src/main/java/pl/kurswspolbieznosci/tydzien5/CallableLesson.java",
+		"/Users/kuba/Downloads/kurswspolbieznosci-master/src/main/java/pl/kurswspolbieznosci/tydzien3/DeadlocksLesson.java",
+		"/Users/kuba/Downloads/kurswspolbieznosci-master/src/main/java/pl/kurswspolbieznosci/tydzien3/BarriersLesson.java",
+		"/Users/kuba/Downloads/kurswspolbieznosci-master/src/main/java/pl/kurswspolbieznosci/tydzien4/TuningLesson.java",
+		"/Users/kuba/Downloads/kurswspolbieznosci-master/src/main/java/pl/kurswspolbieznosci/tydzien3/ScopeLesson.java",
+		"/Users/kuba/Downloads/kurswspolbieznosci-master/src/main/java/pl/kurswspolbieznosci/tydzien3/LockLesson.java",
+		"/Users/kuba/Downloads/kurswspolbieznosci-master/pom.xml",
+		"/Volumes/KOPIA_1/kopia/archiwum/e87/phpbb_db_backup.sql",
+		"/Volumes/KOPIA_1/kopia/www/call/funkcje.php",
+		"/Volumes/KOPIA_1/kopia/www/call/config.php",
+		"/Volumes/KOPIA_1/kopia/www/call/main.php",
+		"/Volumes/KOPIA_1/kopia/www/call/index.php",
+		"/Users/kuba/Dokumenty/gis/run.sh",
+		"/Users/kuba/Dokumenty/gis/query.txt",
+		"/Volumes/macubu/programowanie/framework-master/Dockerfile",
+		"/Volumes/macubu/spring-cloud-stream-demo/loancheck/src/main/java/io/pivotal/loancheck/LoanProcessor.java",
+		"/Volumes/macubu/spring-cloud-stream-demo/loansource/pom.xml",
+		"/Volumes/macubu/spring-cloud-stream-demo/loansource/src/main/resources/application-kafka.properties",
+		"/Volumes/macubu/spring-cloud-stream-demo/loansource/src/main/java/io/pivotal/loansource/LoansourceApplication.java",
+		"/Volumes/macubu/spring-cloud-stream-demo/loansource/src/main/java/io/pivotal/loansource/Statuses.java",
+		"/Volumes/macubu/spring-cloud-stream-demo/loansource/src/main/java/io/pivotal/loansource/Loan.java",
+		"/Volumes/macubu/spring-cloud-stream-demo/docs/index.md",
+		"/Volumes/macubu/stresik.py",
+		"/Volumes/macubu/st/docker-compose.yml"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "extract_audio.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
